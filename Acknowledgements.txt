@@ -1,0 +1,3 @@
+Acknowledgements:
+- Opencv, cvzone, pynput, and mediapipe
+- Murtaza's Workshop channel on YouTube helped me a lot to learn how to use the above libraries
